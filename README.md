@@ -16,3 +16,14 @@ task4
 - C++  
 - Java  
   
+# task6
+
+*learning github lol*
+
+~~this is a sample strikethrough text~~
+
+git status (what even is this )
+
+```c
+#include <stdio.h>
+printf("Hello")
